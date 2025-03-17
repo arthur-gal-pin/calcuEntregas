@@ -1,0 +1,5 @@
+let nomeCliente; //Variável que armazena o nome do cliente. Será apenas utilizada para o OUTPUT final (string)
+let endereçoCliente; //Variável que armazena o endereço do cliente. Será apenas utilizada para o OUTPUT (string)
+let distanciaEntrega; //Variável que armazena a distância entre o local de entrega e a casa do cliente. Será usado para os cálculos. (float)
+let valorKm; //Variável que armazena o quanto custa para andar um quilômetro. Usada para os cálculos (float)
+let urgencia; //Variável para armazenar a urgência da entrega. Se true, aumenta o valor da entrega, se false continua o valor padrão (boolean)
